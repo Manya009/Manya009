@@ -18,29 +18,6 @@ I build AI systems that go into production. Two-plus years at a fintech startup 
 
 ---
 
-## Featured Projects
-
-### Nexus — Agentic Research Platform
-Enterprise-grade multi-agent research system built with LangGraph, Pydantic and MCP for standardised secure tool-calling. RAG pipeline optimised to under 500ms latency with hybrid search. LangSmith observability. Hallucination rate reduced by 25%. Deployed via containerised FastAPI services with CI/CD.
-
-`LangGraph` `MCP` `RAG` `LangSmith` `FastAPI` `Docker` `Pydantic`
-
----
-
-### Shakti — Production RAG Chatbot *(Smart India Hackathon Finals)*
-LangChain + Pinecone + GPT-4 chatbot handling 500+ technical documents. 85% retrieval accuracy, 60% reduction in query resolution time, 200+ concurrent users on AWS EC2, sub-2-second latency.
-
-`LangChain` `Pinecone` `GPT-4` `AWS EC2` `FastAPI`
-
----
-
-### Studios AI — Content Generation Platform
-AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative prototyping time by 75%. Built the prompt engineering framework, content moderation pipeline and the full Django web app. Research published in JETIR (impact factor 7.95).
-
-`GPT-4` `Stable Diffusion XL` `Django` `Prompt Engineering`
-
----
-
 ## Tech Stack
 
 **AI/ML:** PyTorch · TensorFlow · Scikit-learn · OpenCV · MTCNN · Stable Diffusion
