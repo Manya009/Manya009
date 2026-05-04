@@ -65,7 +65,7 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 
 <div align="center">
 
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya009&theme=github-compact)](https://github.com/manya009)
+![snake gif](https://github.com/manya009/manya009/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
