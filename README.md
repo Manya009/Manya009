@@ -41,6 +41,17 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 
 ---
 
+## Production Work at CypherSOL Fintech (2022–2024)
+
+- Led end-to-end development of a deep learning OCR system automating financial document extraction across 50+ document types, contributing to ~10% sales uplift
+- Architected an ETL pipeline processing 10,000+ monthly bank documents, improving extraction accuracy by 35% through preprocessing and feature engineering
+- Designed forensic analytics pipelines covering entity resolution, FIFO tracing and anomaly detection, deployed for use by Mumbai's Anti-Terrorism Squad and Economic Offences Wing
+- Built FastAPI model serving infrastructure handling daily inference at under 2-second latency
+- Implemented CI/CD practices that reduced model drift by 40% and sped up iteration cycles by 3x
+- Mentored two junior data scientists as a promoted Senior Data Scientist
+
+---
+
 ## Tech Stack
 
 **AI/ML:** PyTorch · TensorFlow · Scikit-learn · OpenCV · MTCNN · Stable Diffusion
@@ -53,6 +64,23 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 
 ---
 
+## Education
+
+**MSc Artificial Intelligence** — University of Manchester (2025–2026)
+Global Future Scholar
+
+**B.E. in AI and Data Science** — Mumbai (2020–2024)
+UK First-Class equivalent · Honours in Blockchain
+Technical Coordinator, official department AI club
+
+---
+
+## Intel Internship
+
+Worked on AI projects at Intel Corporation in a hybrid setup, applying ML techniques in an industry R&D environment.
+
+---
+
 <div align="center">
 
 *I spend my free time building things. Long-term thinker. Not here to job-hop.*
@@ -62,19 +90,6 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manya009&hide_border=true&theme=default)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manya009&theme=minimal&hide_border=true&area=true)
+![Contribution Heatmap](https://ghchart.rshah.org/2dba4e/manya009)
 
 </div>
-
----
-
-## Education
-
-**MSc Artificial Intelligence** — University of Manchester (2025–2026)
-Global Future Scholar
-
-**B.E. in AI and Data Science** — Mumbai (2020–2024)
-Grade: 8.74 CGPA · Honours in Blockchain
-Technical Coordinator, official department AI club
-
----
