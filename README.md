@@ -61,6 +61,26 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manya009&theme=github-compact)](https://github.com/manya009)
+
+</div>
+
+---
+
+## 📊 Contributions
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manya009&theme=github)
+
+</div>
+
+---
+
 ## Education
 
 **MSc Artificial Intelligence** — University of Manchester (2025–2026)
@@ -69,5 +89,3 @@ Global Future Scholar
 **B.E. in AI and Data Science** — Mumbai (2020–2024)
 UK First-Class equivalent · Honours in Blockchain
 Technical Coordinator, official department AI club
-
---
