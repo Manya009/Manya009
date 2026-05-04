@@ -61,16 +61,6 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://github.com/manya009/manya009/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📊 Contributions
 
 <div align="center">
