@@ -74,7 +74,7 @@ AI content platform using GPT-3.5/4 and Stable Diffusion XL. Reduced creative pr
 ## Education
 
 **MSc Artificial Intelligence** — University of Manchester (2025–2026)
-Global Future Scholar
+· Global Future Scholar
 
 **B.E. in AI and Data Science** — Mumbai (2020–2024)
 UK First-Class equivalent · Honours in Blockchain
